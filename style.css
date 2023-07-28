@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 header {
     display: flex;
     background-color: #1f2937;
@@ -31,7 +35,7 @@ img {
     
 }
 
-.hero {
+.section1 {
     display: flex;
     background-color: #1f2937;
     padding-top: 4%;
