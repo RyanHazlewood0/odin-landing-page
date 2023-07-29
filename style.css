@@ -156,6 +156,7 @@ footer {
 .banner-txt {
     margin-left: 20%;
     margin-top: 3%;
+    font-style: italic;
 }
 
 #signup2 {
@@ -176,4 +177,5 @@ h4 {
 
 #footer-msg {
 margin-top: 1%;
+font-style: italic;
 }
